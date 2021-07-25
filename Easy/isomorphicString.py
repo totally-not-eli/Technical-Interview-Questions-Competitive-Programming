@@ -17,7 +17,6 @@ class Solution:
             return output
         return convert_str(s) == convert_str(t)
 
-
 if __name__ == '__main__':
     x = Solution()
     s = input("Please enter the first string: ")
